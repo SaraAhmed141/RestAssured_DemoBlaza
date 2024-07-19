@@ -4,6 +4,7 @@ This project aims to automate API interactions with the Restful Booker API. The 
 includes verifying response tokens, creating bookings, and validating the list of books. The
 project is implemented using Java, Rest Assured, and TestNG, following Java clean code
 guidelines.
+
 Scenarios
 Scenario 1: Verify Response Not Empty and Token Generation
 • API Endpoint:
@@ -18,6 +19,7 @@ Project Structure
 • src/test/java: Contains the test scripts.
 • src/test/resources: Contains any test data files (e.g., Excel, JSON).
 • reports: Directory where the test execution reports are stored.
+
 Setup and Execution
 Prerequisites
 • JDK (Java Development Kit)
